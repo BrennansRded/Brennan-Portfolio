@@ -8,3 +8,5 @@ McIntosh High school
 
 Extracurriculars:
 Helping at an Animal Shelter, Robo Dojo, Marching Band
+
+Skills: Can play Saxophone, has video game skills,
