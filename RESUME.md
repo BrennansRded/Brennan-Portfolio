@@ -16,3 +16,4 @@ School: Mcintosh High School
  - Playing Basketball
  - Playing Saxophone in Band 
  - Hanging out with friends and family
+ - i play tf2 too much
