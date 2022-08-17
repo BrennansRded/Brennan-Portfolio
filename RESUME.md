@@ -8,7 +8,7 @@ School: Mcintosh High School
 
 ## Employment History:
  - N/A
- - Volunteer for Royal Dogs
+ - Volunteer for Dog Shelter
 
 ## Hobbies
  - Playing video games (TF2, pokemon, minecraft)
