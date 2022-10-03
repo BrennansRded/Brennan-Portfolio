@@ -17,3 +17,7 @@ School: Mcintosh High School
  - Playing Saxophone in Band 
  - Hanging out with friends and family
  - i play tf2 too much
+
+## Computer Skillz:
+ -Learning how to type the correct way
+  -Learned F,J, Space, R, K,
