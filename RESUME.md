@@ -20,4 +20,4 @@ School: Mcintosh High School
 
 ## Computer Skillz:
  -Learning how to type the correct way
-  -Learned F,J, Space, R, K,
+  -Learned F,J, Space, R, K, D, E, I,
