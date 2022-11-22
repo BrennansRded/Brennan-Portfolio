@@ -16,6 +16,6 @@ School: Mcintosh High School
  - Hanging out with friends and family
 
 ## Extracurriculars
- - I have finished a full season of marching band (going to march next year as well)
+ - Band
  - German Club
  
