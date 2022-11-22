@@ -4,18 +4,18 @@
 School: Mcintosh High School
  - Huddleston Elementary for 5 years
  - JC booth middle school for 3 years
- - Currently going to McIntosh High school
+ - Currently attending McIntosh High School
 
 ## Employment History:
  - Volunteer for Dog Shelter
 
 ## Hobbies
- - Programming
+ - Computer Programming
  - Playing Basketball
  - Playing my Alto Saxophone
  - Hanging out with friends and family
 
 ## Extracurriculars
- - Band
+ - Marching Band
  - German Club
  
